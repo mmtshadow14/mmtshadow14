@@ -28,9 +28,9 @@ My main focus is on **Python** and modern web frameworks such as **Django** and 
 
 <div align="center">
 
-📧 **Email:** [your.email@example.com](mailto:mmtmmt945@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-mahdi-takfallah-721364368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-🌐 **GitHub:** [github.com/USERNAME](https://github.com/mmtshadow14)
+📧 **Email:** [mohammad_mahdi_takfallah.gmail](mailto:mmtmmt945@gmail.com)  
+💼 **LinkedIn:** [mohammad_mahdi_takfallah.Linkedin](https://www.linkedin.com/in/mohammad-mahdi-takfallah-721364368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🌐 **GitHub:** [mohammad_mahdi_takfallah.git](https://github.com/mmtshadow14)
 
 </div>
 
